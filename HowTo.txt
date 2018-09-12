@@ -1,0 +1,12 @@
+Inicjowanie nowego repozytorium:
+git init
+
+Dodanie nowego lub poprawionego pliku do listy zmian:
+git add ReadMe.txt
+
+Zatwierdzenie zmian:
+git commit -m "first commit"
+
+Wys³anie zmian na serwer (dopiero wtedy widaæ je na github'ie):
+git push -u origin master
+
