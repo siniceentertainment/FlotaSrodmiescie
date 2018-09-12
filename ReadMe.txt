@@ -1,1 +1,1 @@
-Pierwsza wersja
+Moja pierwsza poprawka
